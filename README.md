@@ -51,6 +51,6 @@ Os resultados mostram que o modelo **Random Forest** alcançou uma alta acuráci
 ---
 
 ## Conclusão
-Este exercício demonstrou como preparar e treinar um modelo de classificação para prever se um tumor é maligno ou benigno com base em características físicas. O **Random Forest** apresentou um desempenho excelente, com baixa taxa de erros, indicando que é um algoritmo adequado para este tipo de problema.
+Este exercício demonstrou como preparar e treinar um modelo de classificação para prever se um tumor é maligno ou benigno com base em características físicas. O **Random Forest** apresentou um desempenho muito bom, com baixa taxa de erros, indicando que é um algoritmo adequado para este tipo de problema.
 
 Futuramente, seria interessante testar outros modelos, como **SVM** ou **Redes Neurais**, para comparar o desempenho e avaliar possíveis melhorias.
